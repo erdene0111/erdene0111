@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 10b👋
 
 <!--
 **erdene0111/erdene0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
